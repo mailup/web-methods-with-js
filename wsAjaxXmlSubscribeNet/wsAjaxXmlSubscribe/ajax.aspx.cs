@@ -13,7 +13,7 @@ namespace wsAjaxXmlSubscribe
 {
 	public partial class ajax : System.Web.UI.Page
 	{
-		#region variabili private per la classe
+		#region class private vars
         /* Check and edit web.config ( ConsoleUrl tag ) to set your console URL
          * and make sure frontend web methods are enabled under your console configuration.
          * Read more at http://help.mailup.com/display/mailupUserGuide/Connecting+to+MailUp).

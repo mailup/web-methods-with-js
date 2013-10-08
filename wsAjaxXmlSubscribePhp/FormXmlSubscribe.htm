@@ -3,7 +3,6 @@
 <head>
 	<title>XmlSubscribe with Ajax and a simple Php proxy server</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-	<!-- Bootstrap -->
 	<link href="css/bootstrap.min.css" rel="stylesheet" media="screen" />
 	<style type="text/css">
 		body
@@ -48,7 +47,7 @@
 			<br />
 			<div id="message_placeholder"></div>
 			<br />
-			<!-- FORM DATI -->
+			
 			<input type="text" id="txtEmail" class="input-block-level" placeholder="Indirizzo Email" />
 			<input type="text" id="txtNome" class="input-block-level" placeholder="Nome" />
 			<input type="text" id="txtLista" class="input-block-level input-small" placeholder="List" />&nbsp;
@@ -77,10 +76,10 @@
 			</label>
 			
 			<br />
-			<!-- Bottone invio -->
+			
 			<button class="btn btn-large btn-primary sendForm" type="submit">Sign Up!</button>
 		</form>
-	</div><!-- /container -->
+	</div>
 
 
 	<script type="text/javascript" src="http://code.jquery.com/jquery.js"></script>
@@ -88,10 +87,11 @@
 	<script type="text/javascript">
 	    $(document).ready(function () {
 	        $(".alert").alert('close');
+			//form submit event handled here
 	        $(document).on("click", ".sendForm", function (e) {
-	            // Non faccio fare il submit....
+	            
 	            e.preventDefault();
-
+					
 	            if ($("#txtLista").val() == '') {
 	                alert('List is mandatory.');
 	                return;
