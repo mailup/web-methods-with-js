@@ -1,0 +1,10 @@
+C:\Users\cabrini\Documents\Visual Studio 2010\Projects\wsAjaxXmlSubscribe\wsAjaxXmlSubscribe\bin\wsAjaxXmlSubscribe.dll
+C:\Users\cabrini\Documents\Visual Studio 2010\Projects\wsAjaxXmlSubscribe\wsAjaxXmlSubscribe\bin\wsAjaxXmlSubscribe.pdb
+C:\Users\cabrini\Documents\Visual Studio 2010\Projects\wsAjaxXmlSubscribe\wsAjaxXmlSubscribe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\cabrini\Documents\Visual Studio 2010\Projects\wsAjaxXmlSubscribe\wsAjaxXmlSubscribe\obj\Debug\wsAjaxXmlSubscribe.dll
+C:\Users\cabrini\Documents\Visual Studio 2010\Projects\wsAjaxXmlSubscribe\wsAjaxXmlSubscribe\obj\Debug\wsAjaxXmlSubscribe.pdb
+C:\Users\brown\Documents\Projects\Ajax-cross-domain-sample\wsAjaxXmlSubscribe\wsAjaxXmlSubscribe\bin\wsAjaxXmlSubscribe.dll
+C:\Users\brown\Documents\Projects\Ajax-cross-domain-sample\wsAjaxXmlSubscribe\wsAjaxXmlSubscribe\bin\wsAjaxXmlSubscribe.pdb
+C:\Users\brown\Documents\Projects\Ajax-cross-domain-sample\wsAjaxXmlSubscribe\wsAjaxXmlSubscribe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\brown\Documents\Projects\Ajax-cross-domain-sample\wsAjaxXmlSubscribe\wsAjaxXmlSubscribe\obj\Debug\wsAjaxXmlSubscribe.dll
+C:\Users\brown\Documents\Projects\Ajax-cross-domain-sample\wsAjaxXmlSubscribe\wsAjaxXmlSubscribe\obj\Debug\wsAjaxXmlSubscribe.pdb
